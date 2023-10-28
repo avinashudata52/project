@@ -5,12 +5,10 @@
   --font-semi: 600;
 }
 
-
 :root{
   --first-color: #4070F4;
   --second-color: #0E2431;
 }
-
 
 :root{
   --body-font: 'Poppins', sans-serif;
@@ -25,7 +23,6 @@
     --normal-font-size: 1rem;
   }
 }
-
 
 :root{
   --mb-1: 0.5rem;
@@ -43,7 +40,6 @@
   --z-tooltip: 10;
   --z-fixed: 100;
 }
-
 
 *,::before,::after{
   box-sizing: border-box;
@@ -73,7 +69,6 @@ img{
   height: auto;
   display: block;
 }
-
 
 .section-title{
   position: relative;
